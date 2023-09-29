@@ -340,13 +340,13 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook-mod-fabric.pw.toml"
-hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
+file = "mods/forgotten-graves.pw.toml"
+hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
 metafile = true
 
 [[files]]
