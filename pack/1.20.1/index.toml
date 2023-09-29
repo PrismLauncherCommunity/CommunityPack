@@ -332,11 +332,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forgero.pw.toml"
-hash = "bb208c1fa1e70546e5b0f8e0d2c114df268f12552ae5f1ee816c27659c6c5ec8"
-metafile = true
-
-[[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
 metafile = true
