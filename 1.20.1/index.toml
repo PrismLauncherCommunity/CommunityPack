@@ -100,6 +100,11 @@ hash = "a41366ddd0c6ac90fae1bfb117f36fb0a325c19dd823b2006b67ddff4f44a0cf"
 metafile = true
 
 [[files]]
+file = "mods/autotag.pw.toml"
+hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
 metafile = true
@@ -390,6 +395,11 @@ hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "16e7fe544a266d9f2ff4a8ae05f1b6c9db183145d429df578bc330c7dee973d3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
@@ -412,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "7b228ccb1fca34d4a36b5263b7aab6469d0d2fb57a3683a1f64500934881b658"
 metafile = true
 
 [[files]]
@@ -702,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "8f4b5473fba2495db5735b4b78517561753fb08025295484c9631e87aca92b60"
 metafile = true
 
 [[files]]
