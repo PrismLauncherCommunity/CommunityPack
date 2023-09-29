@@ -69,10 +69,6 @@ file = "config/yosbr/options.txt"
 hash = "2f54cc5365380e2ea0ca0925faf7a68add138f7d432019e9208d8150128c79b9"
 
 [[files]]
-file = "mods/CreateNumismatics-0.0.1+fabric-1.20.1-80.jar"
-hash = "67c8ebbcdc80a725901e2a6da0e89b073f8aa9e070c4b02188c6eecd902e1801"
-
-[[files]]
 file = "mods/addadd.pw.toml"
 hash = "ea4a5f7fd697978b42347e984135504a0a027c717f0f0a39da8b9ac1f97255eb"
 metafile = true
