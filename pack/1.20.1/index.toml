@@ -5,6 +5,10 @@ file = "CHANGELOG.md"
 hash = "c5aecd1228b2d4977cf58dea1c2467bdf702cac5a69628458188810875a89725"
 
 [[files]]
+file = "CreateNumismatics-0.0.1+fabric-1.20.1-80.jar"
+hash = "67c8ebbcdc80a725901e2a6da0e89b073f8aa9e070c4b02188c6eecd902e1801"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "3be4b39549b29745b8cad3b37b2a5e6c78848a1e6e80dc47c336dd482ee90d72"
 
@@ -169,11 +173,6 @@ hash = "38edf6d14597ab216cb9d6209cc3ab9a82d5dddb5a4a2785f246739ff8182218"
 metafile = true
 
 [[files]]
-file = "mods/connectible_chains.pw.toml"
-hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
@@ -241,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/echoes-of-the-past.pw.toml"
 hash = "ae26b8f5c3b3cf94b5734a8f3c128357a97ee8e9ae70716fa6d293f0d666773a"
+metafile = true
+
+[[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "755a85188faa0c454c1c52498274c3286a19a31c82bd1693b5bdc261cead213c"
 metafile = true
 
 [[files]]
@@ -374,11 +378,6 @@ hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
 
 [[files]]
-file = "mods/measurements.pw.toml"
-hash = "1b9f7838512f33b41d20ec1353893382767072e9587d7d30389f679225066a9f"
-metafile = true
-
-[[files]]
 file = "mods/medievalweapons.pw.toml"
 hash = "8cddc89098944007eea73e500f35145550b023415925ea9a0ee11182e96b5418"
 metafile = true
@@ -444,6 +443,11 @@ hash = "a1e318a59d0a1886169047dcaaec94312f9d028fae80cd450bf208dc6e5a8a06"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "fe7a52361e006457d4606a79ab019031a52cf6e0ea5e4e31081c3616c12af6f2"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "1ef638a5a1bc05863d2a3798114f5f338f70775cb03a39b75b236e06cd156fbd"
 metafile = true
@@ -456,11 +460,6 @@ metafile = true
 [[files]]
 file = "mods/plutonium.pw.toml"
 hash = "a50f80071da16ec78a88cd220938a8f9e97a71fb79d68d826ef8b86b8831c570"
-metafile = true
-
-[[files]]
-file = "mods/profundis.pw.toml"
-hash = "a3653ee234c1070aefbb78ab7309b9dde7a27b211306cbd294e84c5fc7b89ac6"
 metafile = true
 
 [[files]]
@@ -524,11 +523,6 @@ hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "9a95450545986bf74307b399d60a42236926b21e142bf246408f7ae0804ccee8"
 metafile = true
@@ -556,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "beeb38f3afdccf12b0a0dced3231e289c707bf5797b96428b55b360128035b86"
 metafile = true
 
 [[files]]
