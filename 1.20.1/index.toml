@@ -134,11 +134,6 @@ hash = "3ff2fd216a864b9f32f7d55769fc558b324488db64353940f85b33bba6dbfddd"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups.pw.toml"
-hash = "34e4a4410b7af676198c6ba8aea1394dd8be1c050954eb7f00b24102ab19282e"
-metafile = true
-
-[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "6ed22b0046928ce1ca64a2abcecbe2e85b5354a0c2f25cb59463926737a422a6"
 metafile = true
@@ -309,11 +304,6 @@ hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
 metafile = true
 
 [[files]]
-file = "mods/hang-glider.pw.toml"
-hash = "8dcbc4eaa53da4682437b70594dd792ba7091674abe1ce7a07cc33104f9ecae8"
-metafile = true
-
-[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "501ef99dcb7eadb376669f40eef952912561657376aa50690efa70f57eb4cafa"
 metafile = true
@@ -331,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
-metafile = true
-
-[[files]]
-file = "mods/immersive-melodies.pw.toml"
-hash = "534d7c3832a363282fa9df19ac6c04c07dab02f9088803868f5f9f1932bb7404"
 metafile = true
 
 [[files]]
@@ -359,11 +344,6 @@ hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -381,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/lostfeatures.pw.toml"
-hash = "454138a549fc7964b40cecd0990cf0d379f7c361d99c99801b1f5e87a37000d0"
 metafile = true
 
 [[files]]
@@ -484,6 +459,11 @@ hash = "a50f80071da16ec78a88cd220938a8f9e97a71fb79d68d826ef8b86b8831c570"
 metafile = true
 
 [[files]]
+file = "mods/profundis.pw.toml"
+hash = "a3653ee234c1070aefbb78ab7309b9dde7a27b211306cbd294e84c5fc7b89ac6"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
 metafile = true
@@ -539,11 +519,6 @@ hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]
-file = "mods/scarves.pw.toml"
-hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
@@ -581,11 +556,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "beeb38f3afdccf12b0a0dced3231e289c707bf5797b96428b55b360128035b86"
 metafile = true
 
 [[files]]
