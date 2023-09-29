@@ -29,6 +29,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "81513f54851d7f9a8155ca4171004be8a28e13c0a3bf4b1151c1a630588914b2"
 
 [[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "079309cee9bd396e04971e8722275310ce665cb67c8866dbefed88434c242cc3"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "b62f1f514f502c9eab972242ed2776f243dbfb400e6923b6d83fbc1faa92f930"
 
@@ -327,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "534d7c3832a363282fa9df19ac6c04c07dab02f9088803868f5f9f1932bb7404"
 metafile = true
 
 [[files]]
