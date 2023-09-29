@@ -382,11 +382,6 @@ hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "33c89073f71a972da05cfee8c8b00eec1549e406222b0abab659e38b42797820"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
