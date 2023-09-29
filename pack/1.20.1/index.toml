@@ -5,10 +5,6 @@ file = "CHANGELOG.md"
 hash = "c5aecd1228b2d4977cf58dea1c2467bdf702cac5a69628458188810875a89725"
 
 [[files]]
-file = "CreateNumismatics-0.0.1+fabric-1.20.1-80.jar"
-hash = "67c8ebbcdc80a725901e2a6da0e89b073f8aa9e070c4b02188c6eecd902e1801"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "3be4b39549b29745b8cad3b37b2a5e6c78848a1e6e80dc47c336dd482ee90d72"
 
