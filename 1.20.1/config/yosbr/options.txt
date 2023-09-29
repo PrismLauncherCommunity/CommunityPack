@@ -1,0 +1,11 @@
+simulationDistance:5
+onboardAccessibility:true
+maxFps:260
+autoJump:false
+darkMojangStudiosBackground:true
+guiScale:3
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+snooperEnabled:false
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","Rainbow Resources","file/Fast Better Grass.zip"]
