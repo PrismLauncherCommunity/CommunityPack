@@ -1,4 +1,4 @@
-ID=rainbow
+ID=prismpack
 VERSION=develop
 LOADER=fabric
 MINECRAFT=1.20.1

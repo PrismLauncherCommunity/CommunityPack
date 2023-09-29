@@ -1,0 +1,13 @@
+name = "MedievalWeapons"
+filename = "medievalweapons-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C37HUu02/versions/2Pjby3yW/medievalweapons-1.4.7.jar"
+hash-format = "sha1"
+hash = "d28a4e2b53d06630e32ca6595dbc81c624b53764"
+
+[update]
+[update.modrinth]
+mod-id = "C37HUu02"
+version = "2Pjby3yW"

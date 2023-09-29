@@ -40,9 +40,9 @@ jobs:
         with:
           body_path: pack/${{ steps.split.outputs.fragment }}/CHANGELOG.md
           tag_name: ${{ github.ref }}
-          name: Rainbow ${{ github.ref_name }}
+          name: Prism Pack ${{ github.ref_name }}
           files: |
-            ./build/${{ steps.split.outputs.fragment }}/rainbow-${{ github.ref_name }}.mrpack
+            ./build/${{ steps.split.outputs.fragment }}/prismpack-${{ github.ref_name }}.mrpack
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
