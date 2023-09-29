@@ -1,0 +1,28 @@
+
+buildscript {
+  repositories {
+    gradlePluginPortal()
+  }
+  dependencies {
+    classpath "com.modrinth.minotaur:Minotaur:2.+"
+  }
+}
+
+apply plugin: "java"
+apply plugin: "com.modrinth.minotaur"
+
+version = System.getenv().VERSION
+def minecraft = System.getenv().MINECRAFT
+def loader = System.getenv().LOADER
+
+modrinth {
+  token = System.getenv().MODRINTH_TOKEN
+  projectId = System.getenv().ID
+  gameVersions = ["${minecraft}"]
+  loaders = ["${loader}"]
+  changelog = project.file("pack/${minecraft}/CHANGELOG.md").text
+  uploadFile = project.file("build/${minecraft}/rainbow-${version}.mrpack")
+  syncBodyFrom = project.file("README.md").text
+}
+
+tasks.modrinth.dependsOn tasks.modrinthSyncBody

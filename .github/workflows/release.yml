@@ -1,0 +1,52 @@
+name: Build Modpack
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    name: Release
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gradle/gradle-build-action@v2
+      - uses: actions/setup-go@v3
+        with: 
+          go-version: '1.18'
+          check-latest: true
+
+      - name: Download Dependencys
+        run: |
+          go install github.com/packwiz/packwiz@latest
+
+      - name: Split branch name
+        env:
+          BRANCH: ${{ github.ref_name }}
+        id: split
+        run: echo "fragment=${BRANCH##*-}" >> $GITHUB_OUTPUT
+
+      - name: Make Release
+        run: |
+          make upload-modrinth VERSION=${{ github.ref_name }} MINECRAFT=${{ steps.split.outputs.fragment }} MODRINTH_TOKEN=${{ secrets.MODRINTH_TOKEN }}
+      
+      - name: Create release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          body_path: pack/${{ steps.split.outputs.fragment }}/CHANGELOG.md
+          tag_name: ${{ github.ref }}
+          name: Rainbow ${{ github.ref_name }}
+          files: |
+            ./build/${{ steps.split.outputs.fragment }}/rainbow-${{ github.ref_name }}.mrpack
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./pack
+          publish_branch: release
+          github_token: ${{ secrets.GITHUB_TOKEN }}
