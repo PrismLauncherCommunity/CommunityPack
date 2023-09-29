@@ -525,6 +525,11 @@ hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
+metafile = true
+
+[[files]]
 file = "mods/scarves.pw.toml"
 hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
