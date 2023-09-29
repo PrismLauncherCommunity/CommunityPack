@@ -6,7 +6,7 @@ hash = "c5aecd1228b2d4977cf58dea1c2467bdf702cac5a69628458188810875a89725"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9dc6f820dac8fbb1cf1f6ebd48d1bbbd90751d0ec2ffde8c482b2826075f454"
+hash = "3be4b39549b29745b8cad3b37b2a5e6c78848a1e6e80dc47c336dd482ee90d72"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -41,12 +41,20 @@ file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
 [[files]]
+file = "config/yosbr/config/promenade/biomes.json"
+hash = "854fde4a104899d0614b9b8f62f6b45c338c89479eca7e26cf1bb507f9b21e90"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "d0bc567fb1c22cea8e713e83f317a3025563295e993b31d656588f831cf7e369"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "71fd5fdc3e34144b75e5db6837fe08d6b6993007528a9d15d309e875b7f9618f"
+
+[[files]]
+file = "config/yosbr/config/terrestria/biomes.json"
+hash = "bbb7df2bcadcc163213e32043de89a92f1496e097ee79db7a7c7e623be45f099"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -334,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
@@ -719,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/ultimate-chess.pw.toml"
 hash = "f20ef1e3278802ac298a66409f7fd3fbc08260a511d9fc28978da14347ad940b"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
