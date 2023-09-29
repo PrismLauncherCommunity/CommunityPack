@@ -345,6 +345,11 @@ hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
 metafile = true
@@ -727,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/ultimate-chess.pw.toml"
 hash = "f20ef1e3278802ac298a66409f7fd3fbc08260a511d9fc28978da14347ad940b"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
