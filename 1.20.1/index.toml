@@ -164,6 +164,11 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "9c727921a6186a14d61b5fb037f253a658d72591a64cc94f45e1eea2bd1e6291"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "38edf6d14597ab216cb9d6209cc3ab9a82d5dddb5a4a2785f246739ff8182218"
 metafile = true
@@ -439,6 +444,11 @@ hash = "a1e318a59d0a1886169047dcaaec94312f9d028fae80cd450bf208dc6e5a8a06"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "fe7a52361e006457d4606a79ab019031a52cf6e0ea5e4e31081c3616c12af6f2"
 metafile = true
@@ -546,11 +556,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "beeb38f3afdccf12b0a0dced3231e289c707bf5797b96428b55b360128035b86"
 metafile = true
 
 [[files]]
@@ -671,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
-metafile = true
-
-[[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "6f4ce82de5399daf1dd136b34550cbd0b1bee4f68c4118233472af41c7e6d45e"
 metafile = true
 
 [[files]]
