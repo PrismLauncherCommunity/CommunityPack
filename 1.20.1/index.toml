@@ -79,18 +79,8 @@ hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "55e62a5daa9e25958de0495a217c67ea15f90b94b77cae8489463c6a87eea2d4"
-metafile = true
-
-[[files]]
 file = "mods/amecs.pw.toml"
 hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
 metafile = true
 
 [[files]]
@@ -136,11 +126,6 @@ metafile = true
 [[files]]
 file = "mods/blockus.pw.toml"
 hash = "3ff2fd216a864b9f32f7d55769fc558b324488db64353940f85b33bba6dbfddd"
-metafile = true
-
-[[files]]
-file = "mods/botarium.pw.toml"
-hash = "f9572e3411ba862d58df58b465a3aa33357c621f4346da987b3f616f70baf5ee"
 metafile = true
 
 [[files]]
@@ -194,18 +179,8 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "977ea66c5be2b7135a66098e8ac9c1c58f932b72f4b51563830a6765ae0bbae6"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
@@ -624,11 +599,6 @@ hash = "8f4b5473fba2495db5735b4b78517561753fb08025295484c9631e87aca92b60"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "3306e7374f01d1d0f243d5a0bcaf21dd87adcaa638c056bfefcb0603910abaa5"
-metafile = true
-
-[[files]]
 file = "mods/traverse.pw.toml"
 hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
 metafile = true
@@ -636,11 +606,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
-metafile = true
-
-[[files]]
-file = "mods/twigs.pw.toml"
-hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
 metafile = true
 
 [[files]]
@@ -751,11 +716,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "faffa81c972ce07df81b794c9e52c32b5111b73081eb64140fa01e9db239e409"
 metafile = true
 
 [[files]]
