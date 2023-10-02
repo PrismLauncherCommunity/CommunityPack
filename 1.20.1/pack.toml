@@ -1,12 +1,12 @@
 name = "prismpack"
 author = "Prism Community"
-version = "testing_20-1.20.1"
+version = "testing_21-1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "931bbf08185fb7a90d99c5594b25dee4e38aa03a6cceae7ff926be899313d3c8"
+hash = "33675ff7c30948d045a6182051760506749eff80d0b0347ea45f824aa02c51a6"
 
 [versions]
 fabric = "0.14.22"
