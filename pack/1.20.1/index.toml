@@ -74,11 +74,6 @@ hash = "ea4a5f7fd697978b42347e984135504a0a027c717f0f0a39da8b9ac1f97255eb"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "cacfa864fbcef1fe67e225eec84733b86c130d2cc218c9a492c10e7f332a33f5"
-metafile = true
-
-[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
@@ -161,11 +156,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
-metafile = true
-
-[[files]]
-file = "mods/cluttered.pw.toml"
-hash = "9c727921a6186a14d61b5fb037f253a658d72591a64cc94f45e1eea2bd1e6291"
 metafile = true
 
 [[files]]
@@ -416,11 +406,6 @@ metafile = true
 [[files]]
 file = "mods/muffins-slime-golem.pw.toml"
 hash = "ee3b2e247b0167a036e066e65295ab6a4292446cee4f3cacb20b7d0f64c40e0e"
-metafile = true
-
-[[files]]
-file = "mods/mutant-monsters.pw.toml"
-hash = "63ca4af83792c7b6b754d5a03d5718cfd7fc9c9243793eed2e0e7e423af2178d"
 metafile = true
 
 [[files]]
