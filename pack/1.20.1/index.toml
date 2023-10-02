@@ -79,6 +79,11 @@ hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "55e62a5daa9e25958de0495a217c67ea15f90b94b77cae8489463c6a87eea2d4"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
 metafile = true
