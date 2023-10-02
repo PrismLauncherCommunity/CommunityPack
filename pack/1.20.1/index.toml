@@ -89,6 +89,11 @@ hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -611,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/tieredz.pw.toml"
 hash = "8f4b5473fba2495db5735b4b78517561753fb08025295484c9631e87aca92b60"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "3306e7374f01d1d0f243d5a0bcaf21dd87adcaa638c056bfefcb0603910abaa5"
 metafile = true
 
 [[files]]
