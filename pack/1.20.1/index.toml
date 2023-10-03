@@ -79,11 +79,6 @@ hash = "5114753cb4d08fb69cc23ff9bf58c70c3d2411f01c0b828dc24c25fa0cb8994b"
 metafile = true
 
 [[files]]
-file = "mods/amecs.pw.toml"
-hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -176,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
-metafile = true
-
-[[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "43ea00d836bef5a72eb2e074e5b0ba534e09d31e41a674c8b3d77f307dfbd619"
 metafile = true
 
 [[files]]
@@ -339,6 +329,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lootr-fabric.pw.toml"
+hash = "53786f23c772395f44842146accd33b2f05bc8113c53dde5ae8c02a98706e83f"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -381,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/muffins-slime-golem.pw.toml"
 hash = "ee3b2e247b0167a036e066e65295ab6a4292446cee4f3cacb20b7d0f64c40e0e"
-metafile = true
-
-[[files]]
-file = "mods/myloot.pw.toml"
-hash = "ef80d969a80ba73f12b696c5cefe753891760b3b1f20bb2d2df24e396f8f6f0d"
 metafile = true
 
 [[files]]
@@ -494,11 +484,6 @@ hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable.pw.toml"
-hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
@@ -521,11 +506,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/spoornpacks.pw.toml"
-hash = "ea9bec0e61015a153a13b2f9000651c01df3270328041d2dc3a99153b594d32b"
 metafile = true
 
 [[files]]
