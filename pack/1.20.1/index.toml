@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
@@ -192,11 +192,6 @@ hash = "b3e1359c27e51b7a95ccda5daf560dc8f9dce5bc00ca7fc8c2e198aa76b4321c"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "b877e1471ac8eb9933a9c8c2529748b5a2ab05e63eaf564f63624288a18c3429"
 metafile = true
@@ -208,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "45119a046ee1e893bed9ae1143e69e677816689379dcbba12151cdcf5a53a3e4"
+hash = "e1281e7858663cb1ef53f91e56005ea165f7d95473e12891db40f3266cf755e1"
 metafile = true
 
 [[files]]
@@ -252,13 +247,18 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "39c1afc36757701b7109d9c8a8fd65f7edbdbaddd31452e9fbb438d93972bcbc"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
-hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
+hash = "3a371a1e4d658ee3fd9f0c9b5f12f126ae8115e5d2c18c80f959bb4d0b604b27"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
@@ -318,12 +318,17 @@ metafile = true
 
 [[files]]
 file = "mods/libz.pw.toml"
-hash = "7b228ccb1fca34d4a36b5263b7aab6469d0d2fb57a3683a1f64500934881b658"
+hash = "bfa64f9a0d46a1d2819dc2ffc48d9ab85599a59cf3661bda2401204306221d66"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "3226edfff02089c3e716e13474700b8c63450022178d8b818ad6d434c63426bf"
 metafile = true
 
 [[files]]
@@ -353,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4150435ec9e3a6e92d61d972df268771d13a7662f7f585326268b7b411f388e4"
+hash = "d61897931a50b74bd177465988eb0209ac9c3270fd68888da37bb762c5d31cde"
 metafile = true
 
 [[files]]
@@ -643,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "38003790593416bfe0261e227430fa201e9f61d3d1ffb4bcb59bfbd2951a1607"
+hash = "6253563e28616a16656b12762f897d6007ab19d27e7330030bf9c5af65e3941b"
 metafile = true
 
 [[files]]
@@ -653,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "de577c5fb59738ca7704749c74aadfdf780943a416d4628894a9c22a712af383"
+hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
 metafile = true
 
 [[files]]
@@ -730,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "312dfbf1be1f1f2a93f9cab87aa4326da2ce2827e11545030060bb7d85c07edc"
+hash = "2e4f2e2c014aa8ff2b24632d7fec371e31d6dc372275e6676f84980ee1754eea"
 metafile = true
 
 [[files]]
