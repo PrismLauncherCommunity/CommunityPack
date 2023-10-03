@@ -6,7 +6,7 @@ hash = "c5aecd1228b2d4977cf58dea1c2467bdf702cac5a69628458188810875a89725"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3be4b39549b29745b8cad3b37b2a5e6c78848a1e6e80dc47c336dd482ee90d72"
+hash = "80aac6a22703490a352ed64d851994081b981c4186d801516fd6be0c7b30a6c7"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -21,8 +21,16 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
+file = "config/yosbr/config/additional-additions.json"
+hash = "858513db07db1cd80aae40cef24369c009750065cd4c217c851c71b329c33c6f"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
+
+[[files]]
+file = "config/yosbr/config/fabrication/features.ini"
+hash = "1950124298aedbdb8433cb964364292427e4c8bf9feb5746879270cfe763bb91"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -34,7 +42,7 @@ hash = "079309cee9bd396e04971e8722275310ce665cb67c8866dbefed88434c242cc3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "b62f1f514f502c9eab972242ed2776f243dbfb400e6923b6d83fbc1faa92f930"
+hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -42,7 +50,7 @@ hash = "d233953f1673eb8a0f4d68b9c1a1b06cdf7750d5a7e1d9a12f2ad206c2fcc8bf"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
+hash = "8e847a0e41c1713b348a1da7e7b22257e0af75df8c1bcfa86cd9e528e51a1bb5"
 
 [[files]]
 file = "config/yosbr/config/promenade/biomes.json"
@@ -66,7 +74,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2f54cc5365380e2ea0ca0925faf7a68add138f7d432019e9208d8150128c79b9"
+hash = "d619631164746c15a9f054b4357cf29d71d55d462e3e0f82c979886683612724"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -96,11 +104,6 @@ metafile = true
 [[files]]
 file = "mods/autotag.pw.toml"
 hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.pw.toml"
-hash = "a1bea09f928280dd62cea871438231389ecbed00f4053bb5d1d4a3ad91545fc3"
 metafile = true
 
 [[files]]
@@ -176,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "81fabda0c71fad568b0a2a1b704c1c1451196b615ed1661842a8c102e65f7e05"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
 metafile = true
 
 [[files]]
@@ -304,6 +302,11 @@ hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
+file = "mods/keybind-fix.pw.toml"
+hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -379,16 +382,6 @@ hash = "ee3b2e247b0167a036e066e65295ab6a4292446cee4f3cacb20b7d0f64c40e0e"
 metafile = true
 
 [[files]]
-file = "mods/nightlights.pw.toml"
-hash = "2233605385c51147bf8a0285ddba7d4f3292e688fb12a04a54ac0432803fda49"
-metafile = true
-
-[[files]]
-file = "mods/nmuk.pw.toml"
-hash = "c5c79054c0fe0b73e75f871f003fef87ed3be204cabd77c5df6cf6bb149f379c"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -396,11 +389,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
-metafile = true
-
-[[files]]
-file = "mods/notebook.pw.toml"
-hash = "b75df70741017dd124bc24a9923da2376819a41bf50ae39870a5290fef604e04"
 metafile = true
 
 [[files]]
@@ -624,11 +612,6 @@ hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
 metafile = true
 
 [[files]]
-file = "mods/wthit.pw.toml"
-hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
@@ -714,15 +697,15 @@ hash = "f7990bb935ccfc251e3ef4fe2caf2a9f6452a26c1e886448a8701369c50d07eb"
 
 [[files]]
 file = "resourcepacks/Rainbow Resources/assets/minecraft/textures/gui/title/edition.png"
-hash = "e7304c96e6a017d1a84015f40ab979533c487d87435367c81c66d671cbd3dd80"
+hash = "11d6fadc2d1ffecc3c052ce56cc80e2fd38f2b82c724e3f0cb143dcf2b7dc13d"
 
 [[files]]
 file = "resourcepacks/Rainbow Resources/assets/minecraft/textures/gui/title/minceraft.png"
-hash = "be765979e7e743c9c3516c79beefc92c3d67d00a1238119ba79e049e8a7a511b"
+hash = "18360e566dc9dfdb0a4d93e2a9556a8147e793bdb207d477b16e4e9d7129ef3c"
 
 [[files]]
 file = "resourcepacks/Rainbow Resources/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "b18e0ae5e5be90e62144d5dfc2ef8676cf675a4370246147622156b8528d5122"
+hash = "ccccd16a52372a1c5b6d44c26b33b320d6d70934b0b4ba23b98e1966f9d43124"
 
 [[files]]
 file = "resourcepacks/Rainbow Resources/assets/rainbow/lang/en_us.json"
