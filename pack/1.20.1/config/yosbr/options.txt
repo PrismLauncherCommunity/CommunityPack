@@ -1,4 +1,5 @@
 simulationDistance:5
+autoJump:false
 onboardAccessibility:true
 maxFps:260
 autoJump:false
@@ -8,6 +9,6 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 telemetryOptInExtra:false
 snooperEnabled:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","Rainbow Resources","file/Fast Better Grass.zip"]
 key_key.emotecraft.fastchoose:key.keyboard.g
 key_iris.keybind.reload:key.keyboard.unknown
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","Rainbow Resources","file/Fast Better Grass.zip"]
