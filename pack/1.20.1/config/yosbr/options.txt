@@ -1,15 +1,20 @@
-simulationDistance:5
+version:3465
 autoJump:false
-onboardAccessibility:true
-maxFps:260
-autoJump:false
+operatorItemsTab:true
+snooperEnabled:false
 darkMojangStudiosBackground:true
+simulationDistance:5
 guiScale:3
+maxFps:260
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","Rainbow Resources","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:[]
+tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 telemetryOptInExtra:false
-snooperEnabled:false
+onboardAccessibility:true
+key_key.saveToolbarActivator:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","Rainbow Resources","file/Fast Better Grass.zip"]
+key_key.emotecraft.fastchoose:key.keyboard.g
