@@ -1,13 +1,14 @@
 name = "LibZ"
-filename = "libz-1.0.2.jar"
+filename = "libz-1.0.1.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/yUBXc3AH/versions/yYR9jqw2/libz-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/yUBXc3AH/versions/soKX5h3N/libz-1.0.1.jar"
 hash-format = "sha1"
-hash = "7879302e9e64eb45f7ff8c29ac626d9e7ce30c83"
+hash = "6b5d2b08d425c29670a12cea205465a353dc25e2"
 
 [update]
 [update.modrinth]
 mod-id = "yUBXc3AH"
-version = "yYR9jqw2"
+version = "soKX5h3N"
