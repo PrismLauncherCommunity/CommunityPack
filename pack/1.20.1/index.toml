@@ -30,7 +30,7 @@ hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "1950124298aedbdb8433cb964364292427e4c8bf9feb5746879270cfe763bb91"
+hash = "c7d219e02c39d6ce0c7b4b1c6b180277c372ffd713079dba2068dbcd6145f7cc"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -53,6 +53,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "8e847a0e41c1713b348a1da7e7b22257e0af75df8c1bcfa86cd9e528e51a1bb5"
 
 [[files]]
+file = "config/yosbr/config/notenoughanimations.json"
+hash = "57d27e9ebd04cc18acc725e0ef40bfc67e91c5016b34cd38ab6af0dc84ed9dea"
+
+[[files]]
 file = "config/yosbr/config/promenade/biomes.json"
 hash = "854fde4a104899d0614b9b8f62f6b45c338c89479eca7e26cf1bb507f9b21e90"
 
@@ -71,6 +75,10 @@ hash = "bbb7df2bcadcc163213e32043de89a92f1496e097ee79db7a7c7e623be45f099"
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "config/yosbr/config/travelersbackpack.json5"
+hash = "8ca08a5269c7f0fa78645ba296ae9c4c28c647220badb29aba09fbab4dcf2294"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -152,11 +160,6 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "38edf6d14597ab216cb9d6209cc3ab9a82d5dddb5a4a2785f246739ff8182218"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
@@ -232,6 +235,11 @@ hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "a104f2d46696f2f65e4915bfe19732277442f756d13eae74eda25c3a79a76abc"
 metafile = true
@@ -267,8 +275,8 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forgotten-graves.pw.toml"
-hash = "3a371a1e4d658ee3fd9f0c9b5f12f126ae8115e5d2c18c80f959bb4d0b604b27"
+file = "mods/gardens-of-the-dead.pw.toml"
+hash = "8f25ae0591fc8751c7f92ee2f7c0b4d8ab4b4acc71467d17adf5d94522455c95"
 metafile = true
 
 [[files]]
@@ -294,16 +302,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
-metafile = true
-
-[[files]]
-file = "mods/inmis.pw.toml"
-hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
-metafile = true
-
-[[files]]
-file = "mods/inmisaddon.pw.toml"
-hash = "16e7fe544a266d9f2ff4a8ae05f1b6c9db183145d429df578bc330c7dee973d3"
 metafile = true
 
 [[files]]
@@ -569,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/tieredz.pw.toml"
 hash = "8f4b5473fba2495db5735b4b78517561753fb08025295484c9631e87aca92b60"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c3d33e0bad7b2919be78f80aad957542e78c081f11248d14a9e91ab5389a714f"
 metafile = true
 
 [[files]]
