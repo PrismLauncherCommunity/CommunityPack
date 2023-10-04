@@ -57,6 +57,10 @@ file = "config/yosbr/config/notenoughanimations.json"
 hash = "57d27e9ebd04cc18acc725e0ef40bfc67e91c5016b34cd38ab6af0dc84ed9dea"
 
 [[files]]
+file = "config/yosbr/config/plasmovoice/client.toml"
+hash = "f484c46ea770ddb26917efa57bad03d029785097443a24b7690ec620b28bbfeb"
+
+[[files]]
 file = "config/yosbr/config/promenade/biomes.json"
 hash = "854fde4a104899d0614b9b8f62f6b45c338c89479eca7e26cf1bb507f9b21e90"
 
@@ -82,7 +86,7 @@ hash = "8ca08a5269c7f0fa78645ba296ae9c4c28c647220badb29aba09fbab4dcf2294"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f8e7959b7a642e551a8b016da530201e7922dddeeb0804c0247b46320f3d5601"
+hash = "9a6ef1a6da79e72b1f4e7bf9d76db578b779b5279817943ba4541793c3a321f6"
 
 [[files]]
 file = "mods/addadd.pw.toml"

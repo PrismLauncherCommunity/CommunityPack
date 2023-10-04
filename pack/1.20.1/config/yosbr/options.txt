@@ -13,8 +13,13 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 telemetryOptInExtra:false
 onboardAccessibility:true
-key_key.saveToolbarActivator:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_key.emotecraft.fastchoose:key.keyboard.g
+key_key.emotecraft.fastchoose:key.keyboard.h
+key_[Fabrication] Toggle Stance:key.keyboard.right.shift
+key_[Fabrication] Crawl:key.keyboard.c
+key_[Fabrication] Toggle/Hold Sprint:key.keyboard.right.control
+key_key.plasmovoice.settings:key.keyboard.k
+key_key.saveToolbarActivator:key.keyboard.o
+key_key.loadToolbarActivator:key.keyboard.unknown
