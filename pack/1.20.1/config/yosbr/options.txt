@@ -6,7 +6,7 @@ darkMojangStudiosBackground:true
 simulationDistance:5
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","Rainbow Resources","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/AllFoxesNeedThighHighs.zip","file/VanillaLootChests.zip","Rainbow Resources","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -20,6 +20,5 @@ key_key.emotecraft.fastchoose:key.keyboard.h
 key_[Fabrication] Toggle Stance:key.keyboard.right.shift
 key_[Fabrication] Crawl:key.keyboard.c
 key_[Fabrication] Toggle/Hold Sprint:key.keyboard.right.control
-key_key.plasmovoice.settings:key.keyboard.k
 key_key.saveToolbarActivator:key.keyboard.o
 key_key.loadToolbarActivator:key.keyboard.unknown

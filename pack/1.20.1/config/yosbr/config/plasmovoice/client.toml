@@ -1,3 +1,8 @@
+[[key_bindings]]
+name = "key.plasmovoice.proximity.ptt"
+any_context = true
+category = "hidden"
+
 [[key_bindings.keys]]
-code = 86
+code = 280
 type = "KEYSYM"

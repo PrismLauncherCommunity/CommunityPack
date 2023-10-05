@@ -1,0 +1,13 @@
+name = "All Foxes Need Thigh Highs"
+filename = "AllFoxesNeedThighHighs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wTiiTj7C/versions/2Mr4V5ze/AllFoxesNeedThighHighs.zip"
+hash-format = "sha1"
+hash = "4ed74a25cd73b68c955be67fa14318e2b39022cf"
+
+[update]
+[update.modrinth]
+mod-id = "wTiiTj7C"
+version = "2Mr4V5ze"

@@ -1,0 +1,3 @@
+[voice.proximity]
+distances = [8, 16, 32]
+default_distance = 32
