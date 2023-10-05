@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Prism Community Testing",
+        "text": "Prism Community Playtest 1",
         "clickEvent": {
           "action": "open_url",
           "value": "https://prismlauncher.org/discord"
