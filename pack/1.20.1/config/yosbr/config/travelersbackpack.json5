@@ -2,4 +2,7 @@
     "backpackSettings": {
         "trinketsIntegration": true
     }
+    "backpackAbilities": {
+		"enableBackpackAbilities": false,
+    }
 }
