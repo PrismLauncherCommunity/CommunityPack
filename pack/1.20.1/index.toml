@@ -34,7 +34,7 @@ hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
 
 [[files]]
 file = "config/yosbr/config/fabrication/features.ini"
-hash = "b8f5f6f41b7fb0ec469cfce1b8c799bc278f1e4c39f6c5d04c05a682402a4ee7"
+hash = "0e147702f4c3dc7f471bbf0c58395a6de0ac8b0772b40f65b3789549e08a3d6a"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -94,7 +94,7 @@ hash = "55ef1082a1cb58bfa91fc03f42e541b213b780b8b5be011fa6e88df0308cfea0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c0dd3ca60a40d136bf4ad6dbc651dbb4d4142cd739d8e813c7e601295ad9994f"
+hash = "1dfbf5fb82437c2c3330e55dc03571535a96b0e8805af2fca626da7127ad620a"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -119,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/arrp.pw.toml"
 hash = "30ebb056dae73be3dd1241193bd95f5291b8b3e7d3d0acfd1573ee29096a9b53"
+metafile = true
+
+[[files]]
+file = "mods/audio-engine-tweaks.pw.toml"
+hash = "237320f758e3d410c323ee47ef4afe2b5aef4f14972f0d3ce73c5d7f6a59e14b"
 metafile = true
 
 [[files]]
@@ -197,13 +202,18 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/culinaire.pw.toml"
+hash = "61ac2aa0513e9c5c6e27e2bfd002ef0348ad82d12bc976d86c3171c8ed918243"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "81fabda0c71fad568b0a2a1b704c1c1451196b615ed1661842a8c102e65f7e05"
+hash = "64230e49b12ea146d210626d52b8041f18360c046aa035159190d83c90685d3f"
 metafile = true
 
 [[files]]

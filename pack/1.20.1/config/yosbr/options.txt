@@ -22,3 +22,4 @@ key_[Fabrication] Crawl:key.keyboard.c
 key_[Fabrication] Toggle/Hold Sprint:key.keyboard.right.control
 key_key.saveToolbarActivator:key.keyboard.o
 key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.toms_storage.open_terminal:key.keyboard.i
