@@ -6,7 +6,7 @@ darkMojangStudiosBackground:true
 simulationDistance:5
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/AllFoxesNeedThighHighs.zip","file/VanillaLootChests.zip","Rainbow Resources","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
 tutorialStep:none
 skipMultiplayerWarning:true

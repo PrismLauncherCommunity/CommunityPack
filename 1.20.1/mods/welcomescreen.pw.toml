@@ -1,0 +1,13 @@
+name = "WelcomeScreen"
+filename = "welcomescreen-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7E6n9qa8/versions/8zXgcI8k/welcomescreen-1.0.1.jar"
+hash-format = "sha1"
+hash = "2202ad35f3a830a237784e9507f406fad836d735"
+
+[update]
+[update.modrinth]
+mod-id = "7E6n9qa8"
+version = "8zXgcI8k"

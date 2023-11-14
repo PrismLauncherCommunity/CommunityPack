@@ -1,13 +1,13 @@
 name = "prismpack"
 author = "Prism Community"
-version = "testing_2_1-1.20.1"
+version = "testing_2_final_0-1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0089eecbe11ab3564dfd0e840ec3053ae338647512e4b06017ce44c83a08cf10"
+hash = "1421d6a09b99dc524c8881dd1a0a1c54f0d8cc1cc240c3599eedb5ec33d87b39"
 
 [versions]
-fabric = "0.14.22"
+fabric = "0.14.24"
 minecraft = "1.20.1"

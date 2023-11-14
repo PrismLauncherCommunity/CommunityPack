@@ -1,0 +1,34 @@
+{
+  "main": {
+    "graves": true,
+    "graveCoordinates": true,
+    "retrievalType": "BOTH",
+    "dropType": "EQUIP",
+    "sneakSwapsDropType": true
+  },
+  "experience": {
+    "expStorageType": "VANILLA",
+    "percentage": 100,
+    "percentageType": "POINTS",
+    "cap": 100,
+    "capType": "POINTS"
+  },
+  "sink": {
+    "sinkInAir": true,
+    "sinkInWater": true,
+    "sinkInLava": false
+  },
+  "decay": {
+    "decayEnabled": true,
+    "decayModifier": 80,
+    "decayBreaksItems": true,
+    "decayRobbing": "WEATHERED"
+  },
+  "server": {
+    "graveRobbing": true,
+    "storedGravesAmount": 15,
+    "destructiveDeleteCommand": false,
+    "OPOverrideLevel": 4,
+    "clientOptions": []
+  }
+}
