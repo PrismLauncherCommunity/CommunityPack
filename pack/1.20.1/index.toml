@@ -510,10 +510,6 @@ hash = "ee3b2e247b0167a036e066e65295ab6a4292446cee4f3cacb20b7d0f64c40e0e"
 metafile = true
 
 [[files]]
-file = "mods/newheights-1.0.0-dev.jar"
-hash = "1f7dd377b05a079006c4e95f31ec2fc239c414b525f2158901bb6e7c0620c5b4"
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -541,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "7868b15d73e524b8009505fa2112becb5a31e5c4cbdd7c46df4dc5ed9286c467"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
 metafile = true
 
 [[files]]
@@ -635,17 +626,17 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
