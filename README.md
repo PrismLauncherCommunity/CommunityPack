@@ -1,1 +1,1 @@
-# The Official Modpack For The Prism Launcher Community Modpack
+# The Official Modpack For The Prism Launcher Community
